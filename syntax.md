@@ -89,6 +89,6 @@ this is an ~~strikethroug~~ text
 
 [![Alt text](https://img.youtube.com/vi/DinilgacaWs/0.jpg)](https://www.youtube.com/watch?v=DinilgacaWs)
 
-:smily: :+1:
+:smyli: :+1:
 
 
