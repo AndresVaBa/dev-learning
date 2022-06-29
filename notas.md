@@ -155,6 +155,66 @@ JavaScript es un lenguaje de programación o de secuencias de comandos que te pe
 
 
 
+## Commits Convencionales
+
+[![Alt text](https://img.youtube.com/vi/Cp_SHttVTi0/0.jpg)](https://www.youtube.com/watch?v=Cp_SHttVTi0)
+
+* Fix
+
+Una confirmación del tipo fix corrige un error en su código base (esto se correlaciona con PATCH en el versionado semántico).
+
+* BREAKING CHANGE
+
+Una confirmación que tiene el texto CAMBIO DE RUPTURA: al principio de su cuerpo opcional o sección de pie de página introduce un cambio de ruptura en la API (se correlaciona con MAYOR en el versionado semántico). Un cambio de ruptura puede formar parte de commits de cualquier tipo. Por ejemplo, los tipos fix:, 
+
+* Feat
+
+Un commit del tipo feat introduce una nueva característica en el código base (esto se correlaciona con MINOR en el versionado semántico).
+feat: y chore: serían todos válidos, además de cualquier otro tipo.
+Otros: se permiten otros tipos de commit además de fix: y feat:, por ejemplo @commitlint/config-conventional (basado en la convención de Angular) recomienda chore:, docs:, style:, refactor:, perf:, test:, y otros. También recomendamos improvement para los commits que mejoran una implementación actual sin añadir una nueva característica o corregir un error. Tenga en cuenta que estos tipos no son obligatorios por la especificación de commits convencional, y no tienen ningún efecto implícito en el versionado semántico (a menos que incluyan un BREAKING CHANGE, que NO es recomendable). Se puede proporcionar un ámbito al tipo de una confirmación, para proporcionar información contextual adicional y está contenido entre paréntesis, por ejemplo, feat(parser): añadir la capacidad de analizar matrices.
+
+
+ 
+* Refactor
+
+Solamente se indica que se arreglo u ordeno el codigo.
+
+* Realese
+
+Indica que se ha hecho una nueva publicacion
+
+* Doc
+
+Indica que se a tocado la documentación
+
+* Chore 
+
+Commit de limpieza
+
+### Ejemplos
+Mensaje de confirmación con descripción y cambio de ruptura en el cuerpo
+
+>feat: allow provided config object to extend other configs
+
+* BREAKING CHANGE: 
+
+La clave `extends` en el archivo de configuración se utiliza ahora para extender otros archivos de configuración
+Mensaje de confirmación sin cuerpo
+docs: corregir la ortografía de CHANGELOG
+Mensaje de confirmación con alcance
+feat(lang): añadido el idioma polaco
+Mensaje de confirmación para una corrección utilizando un número de incidencia (opcional).
+corrección: errores tipográficos menores en el código
+
+véase la cuestión para conocer los detalles de los errores tipográficos corregidos
+
+
+
+
+
+
+
+
 
 
 
