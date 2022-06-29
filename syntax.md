@@ -76,4 +76,6 @@ this is an ~~strikethroug~~ text
 |John    |19   |        Blue  |
 |Michael    |23  |       Red |
 |Ben   |15   |        Golden |
+
+
 ![markdown](https://www.google.com.mx/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F48%2FMarkdown-mark.svg%2F1200px-Markdown-mark.svg.png&imgrefurl=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FMarkdown&tbnid=uE0aDvHJlrnEMM&vet=12ahUKEwi--8HN0dH4AhXPU80KHSTkBZEQMygAegUIARC9AQ..i&docid=xKjzTHj8FJxahM&w=1200&h=738&q=markdown&ved=2ahUKEwi--8HN0dH4AhXPU80KHSTkBZEQMygAegUIARC9AQ)
