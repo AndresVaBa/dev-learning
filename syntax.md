@@ -30,7 +30,7 @@ this is an ~~strikethroug~~ text
 
 *Links
 
-[whatismarkdown.com](https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/"MARKDOWN")
+[whatismarkdown.com](https://whatismarkdown.com/what-are-markdowns/"MARKDOWN")
 
 
 * Quote
