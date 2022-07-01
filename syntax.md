@@ -14,7 +14,7 @@ this is an **strong** text
 
 this is an ~~strikethroug~~ text
 
-* Listas  
+* Listas
   * Desordenadas
 
 * apple
