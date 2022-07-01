@@ -89,6 +89,10 @@ this is an ~~strikethroug~~ text
 
 [![Alt text](https://img.youtube.com/vi/DinilgacaWs/0.jpg)](https://www.youtube.com/watch?v=DinilgacaWs)
 
+[Gist](https://gist.github.com/AndresVaBa/7706dd46ca12b3095a4c63a5b992d0e1)
+
+
+
 :bowtie:  :+1:
 
 
