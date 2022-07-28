@@ -1,0 +1,45 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background: lightgray
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#container{
+   /*whidth: 70%;*/
+
+   width: 1365px;
+    margin: 0px auto;
+    border: 3px solid black; 
+
+
+}
+header{
+  background: yellow;
+  height: 100px;
+  width: 100%;
+  margin: 0px;
+  text-align: center;
+  line-height: 100px;
+  color: black;
+  
+}
+#content{
+   float: right;
+   width: 80%;
+   min-height: 559px;
+   background: white;
+   border: 3px solid black; 
+   color: green; 
+   
+}
+aside{
+  float: left
+  width: 20%;
+  min-height:559px;
+  background:  white;
+  border: 3px solid black; 
+}
