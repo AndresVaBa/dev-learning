@@ -11,34 +11,38 @@ body{
 #container{
    /*whidth: 70%;*/
 
-   width: 1100px;
+   width: 1365px;
     margin: 0px auto;
-    border: 1px solid black; 
+    border: 3px solid black; 
 
 
 }
 header{
-  background: red;
+  background: yellow;
   height: 100px;
   width: 100%;
   margin: 0px;
   text-align: center;
   line-height: 100px;
-  color: white;
-  border-bottom: 3px dashed black;
-
+  color: black;
+  
 }
 #content{
    float: right;
    width: 80%;
-   min-height: 500px;
-   background: green;
+   min-height: 559px;
+   background: white;
+   border: 3px solid black; 
+   color: green; 
+   
 }
 aside{
-  float: right;
+  float: left
   width: 20%;
-  min-height: 500px;
-  background: orange;
+  min-height:559px;
+  background:  white;
+  border: 3px solid black; 
+
 }
 
 .article{
